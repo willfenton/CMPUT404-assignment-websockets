@@ -53,6 +53,8 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
+All code contributed by user willfenton on the GitHub repository is LICENSE'd under the Apache 2 license by Will Fenton unless stated otherwise
+
 Contributors
 ============
 
